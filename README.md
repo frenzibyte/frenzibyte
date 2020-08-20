@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./frenzibyte-text.png" width=500/>
+  <img src="https://github.com/frenzibyte/frenzibyte/blob/master/frenzibyte-text.png?raw=true" width=500/>
 </p>
